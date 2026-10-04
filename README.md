@@ -4,20 +4,21 @@ A fangame (and open-source engine) based on *Casualties: Unknown* created by *Or
 
 This game is, and forever will be, **free-to-play** and **open source**. A (potentially) comprehensive document will be made on the game's code so modifications can be made smoothly.
 
-Periodic updates are posted on [Target Planet](https://discord.gg/targetplanet) (official server of **Casualties: Unknown**), mostly [in my thread](https://discord.com/channels/955738554129063947/1538387847063801968).
+[Join the Casualties: Untold Discord server](https://discord.gg/UeQuNHhcqt) for more updates on Cas:Untold!
+Periodic updates are also posted on [Target Planet](https://discord.gg/targetplanet) in my thread.
 
 ---
 [Click here to launch the web version of Casualties: Untold.](https://rawcdn.githack.com/SoaringSaber/Casualties-Untold/b434404216f37f5292e6ea85a845381243c2a2bd/Casualties-Untold.html)<br>
-**Current Version:** * beta unreleased*
+**Current Version:** *coming soon* (currently broken!)
 
 *WARNING: __Casualties: Untold__ utilizes a LOT of audio and images and WILL LIKELY use a lot of data. Ensure that you download the game or play on a stable, unlimited internet connection.*
 
 ---
 
 # The Game
-Casualties: Untold is a non-linear story game. Comparable to Telltale games like *Minecraft: Story Mode*, *The Walking Dead (Telltale Adaptation)*, and more, Cas:Untold is fully controlled by you, the player. Your decisions determine your outcome, your reputation, and whether or not you make it out of ▉▉▉▉▉▉ alive, against ▉▉ ▉▉▉▉▉'s wishes.
+Casualties: Untold is a non-linear story game! Comparable to Telltale games like *Minecraft: Story Mode*, *The Walking Dead (Telltale Adaptation)*, and more, Cas:Untold is fully controlled by you, the player. Your decisions determine your outcome, your reputation, and whether or not you make it out of ▉▉▉▉▉▉ alive, against ▉▉ ▉▉▉▉▉'s wishes.
 
-You control a Sawian named Lemon, a pathetic specimen that is nothing more than a scientist's plaything. You've recently recieved your one-of-a-kind ▉▉-▉▉▉▉ *brain chip*! Quite the fancy upgrade, isn't it? You've also recieved word that you're going on a trip?! Is this a dream?? Well, you better prepare for it, it's to die for...
+You control a Sawian named Lemon, a pathetic specimen that is nothing more than a scientist's plaything. You've recently received your one-of-a-kind ▉▉-▉▉▉▉ *brain chip*! Quite the fancy upgrade, isn't it? You've also received word that you're going on a trip?! Is this a dream?? Well, you better prepare for it, it's to die for...
 
 # The Engine
 Casualties: Untold features an engine that allows for both simple and advanced modifications.
